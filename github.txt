@@ -2,7 +2,7 @@
 2) git status...it will check status of the files(modfied, changes)
 3) git add(this will used to add the files)
 4) git commit -m "commit message"...this will be used to commit the changes
-5) git push ...this used to push the changes
+5) git push ...this is used to push the changes from local to remote
 
 
 
