@@ -1,0 +1,11 @@
+keys must be in double quotes 
+string values must be in double quotes
+age, boolean
+
+JSON supports the following data types 
+
+string --
+Number
+object
+array
+null 
